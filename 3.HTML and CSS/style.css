@@ -3,3 +3,32 @@ img {
     height: 80px;
     object-fit: contain;
 }
+
+.page1 a{
+    color: blue;
+    text-decoration: underline;
+}
+
+.page2 .green{
+    background-color: green;
+}
+
+.page2 .blue{
+    background-color: blue;
+}
+
+.page2 .red{
+    background-color: red;
+}
+
+.page2 .purple{
+    background-color: purple;
+}
+
+.page2 .orange{
+    background-color: orange;
+}
+
+.page2 div{
+    width: fit-content;
+}
